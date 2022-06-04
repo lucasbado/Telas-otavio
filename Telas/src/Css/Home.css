@@ -1,0 +1,70 @@
+html { 
+    background: rgb(111,185,235);
+    background: linear-gradient(0deg, rgba(111,185,235,1) 53%, rgba(109,104,201,1) 84%);
+    height: 100vh;
+   } 
+  
+  
+  
+  .home{
+    height: 100%;
+    width: 100%;
+  
+  
+  }
+
+  .conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  
+  .navbar{
+    display: flex;
+    align-self: flex-end;
+    margin: 2vh;
+  }
+  
+  .card{
+    width: 19vw;
+    height: 43vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1ch solid #6a63c9;
+    border-radius: 10px;
+    margin: 10vh;
+    background: #5a50dd;
+  }
+  
+  .navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .butttons{
+    align-content: space-between;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+  
+  }
+  .btn-hm{
+    margin: 2vh;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    font-family: sans-serif;
+  }
+  .btn-adm{
+   margin: 2vh;
+   color: white;
+   font-size: larger;
+   font-weight: 500;
+    font-family: sans-serif;
+  }
+  

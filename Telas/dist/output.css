@@ -1,0 +1,9 @@
+.home{
+  height: 100%;
+  width: 100%;
+}
+
+.navbar{
+  display: flex;
+  align-self: flex-end;
+}
